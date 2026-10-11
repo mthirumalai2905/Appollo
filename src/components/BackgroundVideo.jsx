@@ -1,6 +1,6 @@
 import { useEffect, useRef } from 'react'
 
-export default function BackgroundVideo({ src, className }) {
+export default function BackgroundVideo({ src, poster, className }) {
   const ref = useRef(null)
 
   useEffect(() => {
@@ -33,7 +33,8 @@ export default function BackgroundVideo({ src, className }) {
       muted
       loop
       playsInline
-      preload="metadata"
+      preload="auto"
+      poster={poster}
     >
       <source src={src} type="video/mp4" />
     </video>

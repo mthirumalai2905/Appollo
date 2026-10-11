@@ -28,6 +28,7 @@ export default function Home() {
         <BackgroundVideo
           className="hero__media"
           src={videos.hero}
+          poster={videos.heroPoster}
         />
         <div className="container hero__content">
           <h1>Norway’s trusted platform for end-to-end building operations</h1>
@@ -180,7 +181,7 @@ export default function Home() {
       </section>
 
       <section className="closing" data-theme="dark">
-        <BackgroundVideo className="closing__media" src={videos.closing} />
+        <BackgroundVideo className="closing__media" src={videos.closing} poster={videos.closingPoster} />
         <div className="container">
           <p className="closing__motto">Enkelhet, satt i system</p>
           <p className="closing__line">

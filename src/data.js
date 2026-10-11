@@ -7,7 +7,9 @@ export const partners = ['Oslobygg', 'Brakon', 'Oslo Forsikring', 'KFiO']
 
 export const videos = {
   hero: '/videos/oslo-skyline.mp4',
+  heroPoster: '/videos/oslo-skyline.jpg',
   closing: '/videos/oslo-waterfront.mp4',
+  closingPoster: '/videos/oslo-waterfront.jpg',
 }
 
 export const images = {
