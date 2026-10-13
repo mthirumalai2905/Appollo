@@ -9,7 +9,7 @@ export default function Platform() {
 
   return (
     <>
-      <PageHero title="Appollo FDVU" image={images.white} />
+      <PageHero title="ASTRID FDVU" image={images.white} />
 
       <section className="band" data-theme="dark">
         <div className="container">
@@ -27,14 +27,14 @@ export default function Platform() {
             <h2>The platform</h2>
             <div className="prose">
               <p>
-                Appollo FDVU is a web-based system for property operations,
+                ASTRID FDVU is a web-based system for property operations,
                 on desktop and on mobile. It is built so an organisation can
                 meet the requirements in NS 3456, and the other laws and
                 regulations that sit beside it, without keeping the building in
                 a stack of separate files.
               </p>
               <p>
-                Appollo, also known as Abis air, is the desktop system. ORRABrann
+                ASTRID, also known as Abis air, is the desktop system. ORRABrann
                 covers fire measures. Air App takes the work on site. Around
                 them: Aqua for reporting, a digital twin fed by IoT, and
                 condition assessment according to NS 3424.
@@ -105,7 +105,7 @@ export default function Platform() {
             <h2>Consulting, when the standard scope is not enough</h2>
             <div>
               <p>
-                Appollo’s consultants have long experience in FDVU and work with
+                ASTRID’s consultants have long experience in FDVU and work with
                 new and existing customers. Start with a conversation. When a
                 portfolio needs something the current modules do not cover, the
                 development team adapts what exists or builds the function.

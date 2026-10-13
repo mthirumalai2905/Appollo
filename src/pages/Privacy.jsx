@@ -11,7 +11,7 @@ export default function Privacy() {
       <section className="section" data-theme="light">
         <div className="container prose prose--narrow">
           <p>
-            This notice covers the Appollo marketing site. It explains what
+            This notice covers the ASTRID marketing site. It explains what
             happens to the details you send when you ask for a demo.
           </p>
           <h2>What you send us</h2>
@@ -24,7 +24,7 @@ export default function Privacy() {
           <h2>Why</h2>
           <p>
             We use those details to reply to a demo request and to understand
-            which part of Appollo FDVU you want to see. We do not sell them, and
+            which part of ASTRID FDVU you want to see. We do not sell them, and
             this site does not run advertising trackers.
           </p>
           <h2>How long</h2>

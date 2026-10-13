@@ -9,7 +9,7 @@ export default function About() {
 
   return (
     <>
-      <PageHero title="About Appollo" image={images.oslo} />
+      <PageHero title="About ASTRID" image={images.oslo} />
 
       <section className="band" data-theme="dark">
         <div className="container">
@@ -21,8 +21,8 @@ export default function About() {
             <div className="split">
               <h2>Quality, security and integrity</h2>
               <p>
-                Those three are the values Appollo holds the company to, and the
-                standard the product has to meet. Appollo FDVU, and everything
+                Those three are the values ASTRID holds the company to, and the
+                standard the product has to meet. ASTRID FDVU, and everything
                 around it, is expected to reflect them — in the record a customer
                 keeps, and in the way the system is run.
               </p>
@@ -33,7 +33,7 @@ export default function About() {
                 <p>
                   The team is in Oslo: people who design the system, people who
                   build it, and the people who keep the work organised. Customers
-                  named by Appollo include Oslobygg, KFiO and Oslo Forsikring.
+                  named by ASTRID include Oslobygg, KFiO and Oslo Forsikring.
                   The work is the same throughout — property operations, put into
                   a system an organisation can actually use.
                 </p>

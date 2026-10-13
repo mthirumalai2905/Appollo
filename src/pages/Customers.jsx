@@ -12,13 +12,13 @@ export default function Customers() {
       <section className="section" data-theme="light">
         <div className="container">
           <div className="split">
-            <h2>Named by Appollo</h2>
+            <h2>Named by ASTRID</h2>
             <p>
-              These are organisations Appollo itself names as customers.
+              These are organisations ASTRID itself names as customers.
               Oslobygg, Brakon and Oslo Forsikring are cited for operational
               reliability and for compliance with the rules and standards that
               apply. KFiO is named alongside them. The pages below stay with
-              what Appollo has published — they are references, not invented
+              what ASTRID has published — they are references, not invented
               case studies.
             </p>
           </div>

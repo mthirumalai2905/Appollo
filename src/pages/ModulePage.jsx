@@ -28,7 +28,7 @@ export default function ModulePage() {
       <section className="section" data-theme="light">
         <div className="container">
           <div className="split">
-            <h2>In Appollo FDVU</h2>
+            <h2>In ASTRID FDVU</h2>
             <div className="prose">
               <p>{item.lead}</p>
               <p>{item.body}</p>

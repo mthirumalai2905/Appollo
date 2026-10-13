@@ -329,6 +329,14 @@ ul {
   padding-bottom: 64px;
 }
 
+.hero__line {
+  max-width: 640px;
+  margin-top: 20px;
+  font-size: 18px;
+  line-height: 1.45;
+  color: rgba(255, 255, 255, 0.88);
+}
+
 h1 {
   max-width: 640px;
   font-family: Outfit, Karla, sans-serif;
@@ -347,6 +355,13 @@ h1 {
 
 .band--tight {
   padding: 64px 0;
+}
+
+.band__lead {
+  max-width: 62ch;
+  margin-top: 32px;
+  font-size: 18px;
+  line-height: 1.5;
 }
 
 .statement {

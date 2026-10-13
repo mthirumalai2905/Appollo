@@ -11,14 +11,14 @@ const links = [
 
 function Brand() {
   return (
-    <NavLink to="/" className="brand" aria-label="Appollo home" end>
+    <NavLink to="/" className="brand" aria-label="ASTRID home" end>
       <svg width="32" height="32" viewBox="0 0 32 32" aria-hidden="true">
         <path
           fill="currentColor"
           d="M0 0h14v14H0V0zm18 0h14v14H18V0zM0 18h14v14H0V18zm22 4h10v10H22V22z"
         />
       </svg>
-      <span>Appollo</span>
+      <span>ASTRID</span>
     </NavLink>
   )
 }
@@ -141,7 +141,7 @@ export default function Layout() {
             </a>
           </div>
           <div className="site-footer__legal">
-            <span>© {new Date().getFullYear()} Appollo</span>
+            <span>© {new Date().getFullYear()} ASTRID</span>
             <NavLink to="/privacy">Privacy Policy</NavLink>
             <a href={phoneHref}>{phone}</a>
           </div>

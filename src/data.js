@@ -1,7 +1,7 @@
 export const phone = '+47 929 43 090'
 export const phoneHref = 'tel:+4792943090'
-export const email = 'support@appollo.no'
-export const linkedin = 'https://www.linkedin.com/company/appollo-it-consulting'
+export const email = 'support@astrid.no'
+export const linkedin = 'https://www.linkedin.com/company/astrid'
 
 export const partners = ['Oslobygg', 'Brakon', 'Oslo Forsikring', 'KFiO']
 
@@ -35,7 +35,7 @@ export const modules = [
     image: images.facade,
     summary:
       'A living database of every property, building, installation and object in the portfolio.',
-    lead: 'Eiendomsoversikt is the register Appollo FDVU is built on. It keeps a detailed, dynamic picture of properties, buildings, installations and the other objects an organisation is responsible for.',
+    lead: 'Eiendomsoversikt is the register ASTRID FDVU is built on. It keeps a detailed, dynamic picture of properties, buildings, installations and the other objects an organisation is responsible for.',
     body: 'Teams stop reconstructing the building from inboxes and shared drives. The register is the place drawings, use, installations and responsibilities stay attached to the asset they belong to.',
     points: [
       'Properties, buildings, installations and other objects',
@@ -83,7 +83,7 @@ export const modules = [
     image: images.office,
     summary:
       'Import, export and share FDV documentation and other files across organisations and roles.',
-    lead: 'FDV documentation is part of running a Norwegian building, not an archive project at the end. Appollo lets teams import, export and share documentation and other files across organisations and roles.',
+    lead: 'FDV documentation is part of running a Norwegian building, not an archive project at the end. ASTRID lets teams import, export and share documentation and other files across organisations and roles.',
     body: 'Files stay with the property they describe. Sorting and copying, and a portfolio-level archive, are available as the plan grows — so a handover does not mean starting again.',
     points: [
       'FDV documentation on the property',
@@ -99,7 +99,7 @@ export const modules = [
     image: images.glass,
     summary:
       'ORRABrann keeps fire measures, inspections and the duties in the building regulations on record.',
-    lead: 'ORRABrann is widely used by Appollo customers. It is the fire-safety side of the platform: measures, inspections and the documentation a property manager needs in order to know the regulations are being looked after.',
+    lead: 'ORRABrann is widely used by ASTRID customers. It is the fire-safety side of the platform: measures, inspections and the documentation a property manager needs in order to know the regulations are being looked after.',
     body: 'The point is confidence. The customer should be able to see that inspections and fire measures are handled inside the rules that govern the building — not reconstructed after the fact.',
     points: [
       'Fire measures followed through on the property',
@@ -162,8 +162,8 @@ export const modules = [
     title: 'Desktop platform',
     image: images.white,
     summary:
-      'Appollo, also known as Abis air, is the desktop system the rest of the modules sit in.',
-    lead: 'Appollo — also known as Abis air — is the desktop building-management system. It is the full set of tools for running a property, so maintenance, documentation and follow-up are handled in one place rather than optimised one spreadsheet at a time.',
+      'ASTRID, also known as Abis air, is the desktop system the rest of the modules sit in.',
+    lead: 'ASTRID — also known as Abis air — is the desktop building-management system. It is the full set of tools for running a property, so maintenance, documentation and follow-up are handled in one place rather than optimised one spreadsheet at a time.',
     body: 'It is web-based, used on desktop and accompanied by the mobile app. The same platform is what ORRABrann, the annual wheel and the document archive plug into.',
     points: [
       'Web-based FDVU for desktop',
@@ -180,13 +180,13 @@ export const modules = [
     summary:
       'A standalone reporting and statistics tool for a wider read of the portfolio.',
     lead: 'Aqua is a standalone reporting and statistics tool. It is there when the organisation needs more than an operational list — a broader picture of the properties, for decisions and for how the portfolio is actually running.',
-    body: 'On the Entreprise plan it is part of the same Appollo setup, so the reports are drawn from the register rather than from a parallel set of numbers.',
+    body: 'On the Entreprise plan it is part of the same ASTRID setup, so the reports are drawn from the register rather than from a parallel set of numbers.',
     points: [
       'Reporting and statistics beyond the daily list',
       'Insight across properties',
       'Support for operational decisions',
       'Included from the Entreprise plan',
-      'Fed by the Appollo property record',
+      'Fed by the ASTRID property record',
     ],
   },
   {
@@ -196,7 +196,7 @@ export const modules = [
     summary:
       'A virtual picture of the property, fed by IoT sensors and the operational data you already keep.',
     lead: 'The digital twin is a virtual replica of the property, built with IoT sensors and analysis of the data the building produces, so operation can be tuned rather than only recorded.',
-    body: 'It extends the register. The object in Appollo can carry a live picture, not only a name, a drawing and a service interval.',
+    body: 'It extends the register. The object in ASTRID can carry a live picture, not only a name, a drawing and a service interval.',
     points: [
       'Virtual replicas of properties',
       'IoT sensors and data analysis',
@@ -239,52 +239,52 @@ export const customers = [
     slug: 'oslobygg',
     name: 'Oslobygg',
     image: images.oslo,
-    summary: 'A named Appollo customer in Oslo’s public property portfolio.',
-    body: 'Oslobygg is one of the organisations Appollo names as a customer. The platform is used where operational reliability matters, and where documentation has to stand up to the rules and standards that govern public buildings.',
+    summary: 'A named ASTRID customer in Oslo’s public property portfolio.',
+    body: 'Oslobygg is one of the organisations ASTRID names as a customer. The platform is used where operational reliability matters, and where documentation has to stand up to the rules and standards that govern public buildings.',
   },
   {
     slug: 'brakon',
     name: 'Brakon',
     image: images.brick,
-    summary: 'Named by Appollo among the customers running property operations on FDVU.',
-    body: 'Brakon is named on Appollo’s own site alongside Oslobygg and Oslo Forsikring. They are part of the group of customers who use the platform to keep property operations documented and follow-up visible.',
+    summary: 'Named by ASTRID among the customers running property operations on FDVU.',
+    body: 'Brakon is named on ASTRID’s own site alongside Oslobygg and Oslo Forsikring. They are part of the group of customers who use the platform to keep property operations documented and follow-up visible.',
   },
   {
     slug: 'oslo-forsikring',
     name: 'Oslo Forsikring',
     image: images.glass,
-    summary: 'Chosen Appollo for operational reliability and compliance with the rules that apply.',
-    body: 'Oslo Forsikring is named by Appollo as a customer that uses the platform to secure operational reliability and compliance with statutory rules and standards. The record is the point: what was inspected, what is open, and what has been documented.',
+    summary: 'Chosen ASTRID for operational reliability and compliance with the rules that apply.',
+    body: 'Oslo Forsikring is named by ASTRID as a customer that uses the platform to secure operational reliability and compliance with statutory rules and standards. The record is the point: what was inspected, what is open, and what has been documented.',
   },
   {
     slug: 'kfio',
     name: 'KFiO',
     image: images.white,
-    summary: 'Named on Appollo’s client list alongside other Oslo institutions.',
-    body: 'KFiO is named by Appollo among the organisations it has worked with. As with the rest of the client list, the engagement is property operations: documentation, maintenance and the follow-up those buildings require.',
+    summary: 'Named on ASTRID’s client list alongside other Oslo institutions.',
+    body: 'KFiO is named by ASTRID among the organisations it has worked with. As with the rest of the client list, the engagement is property operations: documentation, maintenance and the follow-up those buildings require.',
   },
 ]
 
 export const faqs = [
   {
     q: 'What does property operations software mean to us?',
-    a: 'Appollo FDVU is not only a place to store building data. It helps the people who own, manage and answer for a property feel confident in it. The platform keeps maintenance, inspections, documentation and responsibilities together, so the building stays understandable — day to day, and when someone asks for the record.',
+    a: 'ASTRID FDVU is not only a place to store building data. It helps the people who own, manage and answer for a property feel confident in it. The platform keeps maintenance, inspections, documentation and responsibilities together, so the building stays understandable — day to day, and when someone asks for the record.',
   },
   {
-    q: 'What does Appollo FDVU include?',
+    q: 'What does ASTRID FDVU include?',
     a: 'A modular, web-based FDVU system. The core is the property register, deviations and actions, status and reports, the annual wheel, FDV documentation and claims. Around that sit fire safety (ORRABrann), the Air App on mobile, Aqua reporting, condition assessment according to NS 3424, and room for custom roles and forms. You choose the scope. The same platform is used daily by several thousand users.',
   },
   {
     q: 'Why does this matter for a building owner?',
-    a: 'A building does not document itself, and a missing record costs more later. Appollo keeps maintenance and compliance visible: what is open, what is due, and what has been handed to a supplier. Preventative routines and a clear status reduce the risk of finding the gap when an inspector, a buyer or a tenant is already waiting.',
+    a: 'A building does not document itself, and a missing record costs more later. ASTRID keeps maintenance and compliance visible: what is open, what is due, and what has been handed to a supplier. Preventative routines and a clear status reduce the risk of finding the gap when an inspector, a buyer or a tenant is already waiting.',
   },
   {
-    q: 'Who is Appollo for?',
+    q: 'Who is ASTRID for?',
     a: 'Organisations that run buildings. That includes public and municipal portfolios, residential and mixed-use properties, owners’ organisations, developers, and insurance or asset teams who need the operational picture rather than another inbox. One building or many: the modules are chosen around the organisation’s size and goals. The same platform is used daily by several thousand users.',
   },
   {
-    q: 'What does working with Appollo mean for you?',
-    a: 'It means the day-to-day is simpler to see. Appollo is focused on practical follow-up: a scope of work that is easier to run, documentation that can be shared across roles, and reporting that keeps you informed. Quality, security and integrity are the values the product is held to. Where the standard modules are not enough, consultants and the development team adapt what exists or build what is missing.',
+    q: 'What does working with ASTRID mean for you?',
+    a: 'It means the day-to-day is simpler to see. ASTRID is focused on practical follow-up: a scope of work that is easier to run, documentation that can be shared across roles, and reporting that keeps you informed. Quality, security and integrity are the values the product is held to. Where the standard modules are not enough, consultants and the development team adapt what exists or build what is missing.',
   },
 ]
 

@@ -32,17 +32,28 @@ export default function Home() {
         />
         <div className="container hero__content">
           <h1>Norway’s trusted platform for end-to-end building operations</h1>
+          <p className="hero__line">
+            5,000 registered users, on the platform every day.
+            <br />
+            4,562 buildings registered in ASTRID.
+          </p>
         </div>
       </section>
 
       <section className="band" data-theme="dark">
         <div className="container">
-          <RevealText text="Appollo is an Oslo-based software company for property and building operations. Best known for maintenance, inspections, technical documentation, equipment and operational compliance. A web-based FDVU platform for the organisations that run buildings." />
+          <RevealText text="ASTRID is an Oslo-based software company for property and building operations. Best known for maintenance, inspections, technical documentation, equipment and operational compliance. A web-based FDVU platform for the organisations that run buildings." />
+          <p className="band__lead">
+            ASTRID is a networked infrastructure for building maintenance. It
+            unifies the technology a building already has — equipment, sensors,
+            cameras and actuators — on Morph Space, an engine specialised for
+            buildings.
+          </p>
           <div className="split-stack">
             <div className="split">
               <h2>We set a high standard for how property is managed</h2>
               <p>
-                Appollo FDVU is a complete, web-based system for property
+                ASTRID FDVU is a complete, web-based system for property
                 operations. It is modular, so the platform can be shaped around
                 the organisation: documentation, maintenance, deviations and the
                 routines a building actually depends on. From a single property
@@ -54,7 +65,7 @@ export default function Home() {
               <div>
                 <p>
                   Maintenance, inspections and technical records only work when
-                  they stay connected. Appollo gives owners, managers and
+                  they stay connected. ASTRID gives owners, managers and
                   suppliers one operational picture: what is due, what is open,
                   and what has been documented. Structured reporting. Clear
                   responsibilities. Less of the chasing you should not have to do.
@@ -89,7 +100,7 @@ export default function Home() {
               <div className="figures__copy">
                 <h2>Who we serve</h2>
                 <p>
-                  Appollo delivers FDVU software for organisations that own and
+                  ASTRID delivers FDVU software for organisations that own and
                   run buildings: public portfolios, residential and mixed-use
                   properties, and the teams who insure or oversee them. Customers
                   such as Oslobygg, Brakon and Oslo Forsikring use the platform
